@@ -1,0 +1,17 @@
+/* You can add global styles to this file, and also import other style files */
+.canvas {
+    height: 200;
+    width: 200;
+}
+
+.analysis {
+    margin: auto;
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+    width: 60vw;
+    
+}   
+.subanalysis {
+          width: 100%;
+              }
+
